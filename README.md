@@ -23,8 +23,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/contact-manager-pro.git
-   cd contact-manager-pro
+   git clone https://github.com/gauravkm59829/Contact-Manager-Pro.git
+   cd Contact-Manager-Pro
    ```
 
 2. **Install dependencies:**
