@@ -49,9 +49,9 @@
 ## Usage
 
 1. **Add a Contact:**
-   - Click the "Add Contact" button.
-   - Enter the contact's name and email.
-   - Click "Save" to add the contact to the list.
+   - Click the Plus (+) icon to open the popup form.
+   - Enter the contact's name and email in the form.
+   - Click the Add Contact button to save the contact to the list.
 
 2. **Edit a Contact:**
    - Click the "Edit" icon next to the contact you want to update.
