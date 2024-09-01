@@ -19,14 +19,6 @@
 - **Real-Time Data Synchronization:** All contact data is stored securely in Firebase and updated in real-time.
 - **Responsive Design:** A modern, mobile-friendly interface ensures that the application works smoothly on any device.
 
-Since your project is created using Vite, the correct command to start the development server is:
-
-```bash
-npm run dev
-```
-
----
-
 ## Installation
 
 1. **Clone the repository:**
