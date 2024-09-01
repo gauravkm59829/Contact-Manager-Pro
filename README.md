@@ -1,6 +1,4 @@
----
-
-# Contact Manager Pro
+## Contact Manager Pro
 
 **Contact Manager Pro** is a web application designed to help users manage their personal contacts efficiently. Built with **React**, **Tailwind CSS**, and **Firebase**, this application offers a clean and responsive interface for adding, editing, deleting, and filtering contacts.
 
